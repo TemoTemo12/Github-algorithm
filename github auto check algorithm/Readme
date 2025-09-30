@@ -1,0 +1,13 @@
+welcome to github auto checking by Temo,
+i have 2 version of github auto check algorithm 
+
+
+what's different between both version:
+
+Version 1:
+in version 1 its doesnt ignore node_modules 
+
+Version 2:
+in version 2 it ignores nodue_modules
+
+in the second folder "Goa-Homeworks" delete it and clone your github repository and name it in both version in last line of code
